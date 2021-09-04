@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-search-with-material-ui/static/css/main.614c03f4.chunk.css",
+    "main.js": "/movie-search-with-material-ui/static/js/main.7c31acc9.chunk.js",
+    "main.js.map": "/movie-search-with-material-ui/static/js/main.7c31acc9.chunk.js.map",
+    "runtime-main.js": "/movie-search-with-material-ui/static/js/runtime-main.b25a9bb4.js",
+    "runtime-main.js.map": "/movie-search-with-material-ui/static/js/runtime-main.b25a9bb4.js.map",
+    "static/css/2.af3ab7ac.chunk.css": "/movie-search-with-material-ui/static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.228d9bad.chunk.js": "/movie-search-with-material-ui/static/js/2.228d9bad.chunk.js",
+    "static/js/2.228d9bad.chunk.js.map": "/movie-search-with-material-ui/static/js/2.228d9bad.chunk.js.map",
+    "index.html": "/movie-search-with-material-ui/index.html",
+    "static/css/2.af3ab7ac.chunk.css.map": "/movie-search-with-material-ui/static/css/2.af3ab7ac.chunk.css.map",
+    "static/css/main.614c03f4.chunk.css.map": "/movie-search-with-material-ui/static/css/main.614c03f4.chunk.css.map",
+    "static/js/2.228d9bad.chunk.js.LICENSE.txt": "/movie-search-with-material-ui/static/js/2.228d9bad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25a9bb4.js",
+    "static/css/2.af3ab7ac.chunk.css",
+    "static/js/2.228d9bad.chunk.js",
+    "static/css/main.614c03f4.chunk.css",
+    "static/js/main.7c31acc9.chunk.js"
+  ]
+}
